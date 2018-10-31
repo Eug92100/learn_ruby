@@ -1,3 +1,6 @@
+# *My solutions to the following exercises:*
+
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
